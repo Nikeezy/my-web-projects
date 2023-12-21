@@ -1,0 +1,9 @@
+.text-arrow-section {
+    display: flex;
+    align-items: center;
+}
+.text-section__title {
+}
+.text-arrow-section__arrow-svg {
+    margin-left: 16px;
+}

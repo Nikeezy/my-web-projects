@@ -1,0 +1,6 @@
+.title-section {
+    display: flex;
+    flex-direction: column;
+}
+.title-section__title {
+}

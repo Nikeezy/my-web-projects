@@ -1,0 +1,8 @@
+.contact-block {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: radial-gradient(50% 2900.76% at 50% 53.89%, rgba(58, 52, 86, 0.95) 0%, #211E2E 100%);
+    border-radius: 90px;
+    padding: 49px 53px;
+}

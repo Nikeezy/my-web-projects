@@ -1,0 +1,9 @@
+.button-arrow-section {
+    display: flex;
+    align-items: center;
+}
+.button-arrow-section > *:not(:last-child) {
+    margin-right: 39px;
+}
+.button-arrow-section__arrow-svg {
+}

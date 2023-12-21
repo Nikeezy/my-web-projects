@@ -1,0 +1,27 @@
+.text {
+    line-height: 26px;
+}
+.text--dark-indigo {
+    color: #343045;
+}
+.text--bold {
+    font-weight: 700;
+}
+.text--regular {
+    font-weight: 400;
+}
+.text--xl-large {
+    font-size: 64px;
+}
+.text--x-large {
+    font-size: 24px;
+}
+.text--large {
+    font-size: 16px;
+}
+.text--medium {
+    font-size: 14px;
+}
+.text--small {
+    font-size: 12px;
+}

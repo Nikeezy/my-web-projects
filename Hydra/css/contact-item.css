@@ -1,0 +1,25 @@
+.contact-item {
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+.contact-item:nth-child(2) {
+    margin: 0 121px 0 94px;
+}
+.contact-item:nth-child(1)::before {
+    content: '';
+    position: absolute;
+    height: 116px;
+    border: 1px solid rgba(192, 183, 232, 0.33);
+    right: -42.5px;
+}
+.contact-item:nth-child(2)::before {
+    content: '';
+    position: absolute;
+    height: 116px;
+    border: 1px solid rgba(192, 183, 232, 0.33);
+    right: -66px;
+}
+.contact-item__text-section >*:not(:last-child){
+    margin-bottom: 10px;
+}

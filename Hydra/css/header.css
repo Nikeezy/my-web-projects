@@ -1,0 +1,31 @@
+@import url("logo.css");
+@import url("menu.css");
+@import url("button.css");
+@import url("link.css");
+
+.header {
+    position: absolute;
+    width: 100%;
+    left: 0;
+    top: 0;
+    z-index: 100;
+}
+.header__container {
+}
+.header__body {
+    display: flex;
+    align-items: center;
+    padding: 50px 0 0;
+}
+.header__body > *:nth-child(2) {
+    margin: 0 140px 0 202px;
+}
+.header__menu {
+}
+.header__buttons {
+}
+.header__button {
+}
+.header__button:not(:last-child) {
+    margin-right: 38px;
+}

@@ -1,0 +1,11 @@
+.icon {
+}
+.icon--type--location {
+    margin-right: 14px;
+}
+.icon--type--phone {
+    margin-right: 33px;
+}
+.icon--type--email {
+    margin-right: 28px;
+}

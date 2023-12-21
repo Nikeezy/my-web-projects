@@ -1,0 +1,13 @@
+.text-section {
+}
+.text-section__title {
+    white-space: pre-line;
+}
+.text-section__text {
+    white-space: pre-line;
+}
+.text-section__title-inner {
+}
+.text-section__title-section {
+    margin-bottom: 42px;
+}

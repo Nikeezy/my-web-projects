@@ -1,0 +1,40 @@
+@import url("main-block.css");
+@import url("feature-block.css");
+@import url("text-section.css");
+@import url("button.css");
+@import url("title.css");
+@import url("title-inner.css");
+@import url("text.css");
+@import url("button-arrow-section.css");
+@import url("arrow-svg.css");
+@import url("content.css");
+@import url("contact-block.css");
+@import url("contact-items.css");
+@import url("contact-item.css");
+@import url("icon.css");
+@import url("introduction-block.css");
+@import url("info-block.css");
+@import url("title-section.css");
+@import url("text-arrow-section.css");
+@import url("advantages-block.css");
+@import url("innovatives-block.css");
+@import url("circle-module.css");
+@import url("development-block.css");
+@import url("contact-form-block.css");
+@import url("contact-form.css");
+
+.page {
+    flex: 1 1 auto;
+}
+.page__main-block {
+}
+.page__introduction-block {
+}
+.page__advantages-block {
+}
+.page__innovatives-block {
+}
+.page__development-block {
+}
+.page__contact-form-block {
+}

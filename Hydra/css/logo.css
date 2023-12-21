@@ -1,0 +1,9 @@
+.logo {
+    display: flex;
+    align-items: center;
+}
+.logo__svg {
+}
+.logo__text-svg {
+    margin-left: 15px;
+}

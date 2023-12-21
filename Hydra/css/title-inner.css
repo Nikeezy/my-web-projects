@@ -1,0 +1,11 @@
+.title-inner {
+}
+.title-inner--magenta-gradient {
+    background: linear-gradient(269deg, #C0B7E8 -3.72%, #8176AF 82.17%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+.title-inner--large {
+    font-size: 46px;
+}

@@ -1,0 +1,44 @@
+.outer-container {
+    width: 1440px;
+    margin: 0px auto;
+    padding: 0;
+    box-sizing: content-box;
+    z-index: 1;
+    position: relative;
+}
+.outer-container__svg-first {
+    position: absolute;
+    top: 268px;
+    left: 0;
+    z-index: -1;
+}
+.outer-container__svg-second {
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: -1;
+}
+.outer-container__svg-third {
+    position: absolute;
+    top: 1272px;
+    left: 0;
+    z-index: -1;
+}
+.outer-container__svg-fourth {
+    position: absolute;
+    top: 2190px;
+    left: 0;
+    z-index: -1;
+}
+.outer-container__svg-fifth {
+    position: absolute;
+    top: 3700px;
+    left: 0;
+    z-index: -1;
+}
+.outer-container__svg-sixth {
+    position: absolute;
+    top: 4905px;
+    left: 0;
+    z-index: -1;
+}

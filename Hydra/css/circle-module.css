@@ -1,0 +1,9 @@
+.circle-module {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    background: linear-gradient(267.61deg, #C0B7E8 -0.6%, #8176AF 98.31%);
+}
+.circle-module__arrow-svg {
+}

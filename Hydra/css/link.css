@@ -1,0 +1,12 @@
+.link {
+    color: inherit;
+}
+.link--bold {
+    font-weight: 700; 
+}
+.link--large {
+    font-size: 16px;
+}
+.link--small {
+    font-size: 12px;
+}

@@ -1,0 +1,23 @@
+.button {
+    font-weight: 700;
+    border-radius: 40px;
+    display: inline-block;
+}
+.button--white {
+    color: white;
+    border: 2px solid #FFFFFF;
+    padding: 16.4px 35.33px;
+}
+.button--purple-blue {
+    color: #343045;
+    padding: 18px 37.84px;
+}
+.button--magenta-gradient {
+    background: linear-gradient(90deg, #8176AF 0%, #C0B7E8 100%);
+}
+.button--large {
+    font-size: 14px;
+}
+.button--small {
+    font-size: 12px;
+}
